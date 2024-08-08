@@ -269,9 +269,9 @@ footer a {
 #galeria .cuadrado-perfecto:hover h4 {
   display: none;
 }
-#contactenos{
+/* #contactenos{
         position: absolute;
-    }
+    } */
 #contactenos iframe {
   position: absolute;
   top: 0;
